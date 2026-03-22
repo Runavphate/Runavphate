@@ -52,7 +52,7 @@ A Web3-based platform to explore and list NFTs
 ## 🌐 Connect
 
 - GitHub: https://github.com/Runavphate  
-- LinkedIn: https://linkedin.com/in/runav-phate
+- LinkedIn: https://www.linkedin.com/in/runav-phate-221147322
 - Email: phaterunav@gmail.com
 ---
 
